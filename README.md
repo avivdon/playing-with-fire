@@ -3,7 +3,7 @@ Final High School Java Project
 
 Playing With Fire is based on the known "Playing With Fire" game you can find in the internet in multiple websites (such as https://www.crazygames.com/game/playing-with-fire-2).
 
-Before describing the game itself, I want to make it clear:
+**Before describing the game itself, I want to make it clear:**
 ***********************************************************
 This game is not well-programmed. The algorithms written in are not efficient, there are tons of comments, it's nothing close to any coding standard conventions and it's extremely unreadable.
 I wrote this code back in high school so there were so many things I was not aware of (e.g: I didn't bother checking how to implement Animation of objects, so i just made it up on my own using Timer library). 
