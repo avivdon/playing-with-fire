@@ -4,6 +4,7 @@
 Playing With Fire is based on the known "Playing With Fire" game you can find in the internet in multiple websites (such as https://www.crazygames.com/game/playing-with-fire-2).
 
 ### Before describing the game itself, I want to make it clear:
+I programmed this game long ago when I was a kid.
 This game is not well-programmed. The algorithms written in are not efficient, there are tons of comments, it's nothing close to any coding standard conventions and it's extremely unreadable.
 I wrote this code back in high school so there were so many things I was not aware of (e.g: I didn't bother checking how to implement Animation of objects, so i just made it up on my own using Timer library). 
 I wasn't aware of the existance of path-finding recursive algorithms, but I managed to write something close to BFS (and very unefficient) on my own that made the job. 
